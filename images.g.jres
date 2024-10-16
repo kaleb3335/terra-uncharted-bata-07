@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAP/wzwAAAAAA78/7AAAA8ADwvfwAAADf/8/rDwAAAN+8vPz+AAAAz8vL++8PAADfvLwP8P4AAPDNyw8A7w8A8N3c/ADvDwAA/93dD/D+AAAA//8AAO//AAAAAAAA8P4AAAAAAADwDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    ";nFk_Q)HMth980w4!DiE": {
+        "data": "hwQQABAAAAAAAP/wzwAAAAAA78/+AAAA8ADw7vwAAADv/8/uDwAAAO/s7Pz+AAAAz87O++8PAADv7LwP8P4AAPDOzg8A7w8A8O7s/ADvDwAA/+7uD/D+AAAA//8AAO//AAAAAAAA8P4AAAAAAADwDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dirt axe"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
